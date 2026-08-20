@@ -74,7 +74,3 @@ Evaluated Ordinary Least Squares (OLS) Linear Regression against $L_1$ (Lasso) a
 3. **Execute the Notebook:**
    Open `linear_reg_project.ipynb` in Google Colab or Jupyter Notebook, upload `Life Expectancy Data.csv`, and run all cells.
 
----
-
-## 📝 Summary for Interviews / Resume
-> *"Built an end-to-end regularized linear regression pipeline on WHO socio-economic data (~2.9k rows, 22 columns). Leveraged country-wise median imputation to handle missing values without distorting country baselines. Applied Lasso ($L_1$) regularization to eliminate multicollinearity by automatically dropping 4 redundant features while preserving ~81% $R^2$ accuracy with an RMSE under 4 years."*
